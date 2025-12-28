@@ -1,3 +1,3 @@
-# Assistant-Demo
-This is my first repository
-Author-Mayur Ilamkar
+3d-anime-ai-assistant
+Auther--Mayur Ilamkar
+
